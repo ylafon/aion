@@ -1,6 +1,6 @@
 /* (c) Yves Lafon <yves@raubacapeu.net> */
 /*                                      */
-/* $id */
+/* $Id: bot.h,v 1.2 2007/07/03 14:02:57 ylafon Exp $ */
 
 #ifndef _AION_BOT_H_
 #define _AION_BOT_H_

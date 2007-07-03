@@ -1,6 +1,6 @@
 /* (c) Yves Lafon <yves@raubacapeu.net> */
 /*                                      */
-/* $id */
+/* $Id: action.c,v 1.2 2007/07/03 14:02:57 ylafon Exp $ */
 
 #include <stdio.h>
 #include <string.h>

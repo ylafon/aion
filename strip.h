@@ -1,6 +1,6 @@
 /* (c) Yves Lafon <yves@raubacapeu.net> */
 /*                                      */
-/* $id */
+/* $Id: strip.h,v 1.2 2007/07/03 14:02:58 ylafon Exp $ */
 
 #ifndef _AION_STRIP_H_
 #define _AION_STRIP_H_

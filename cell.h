@@ -1,6 +1,6 @@
 /* (c) Yves Lafon <yves@raubacapeu.net> */
 /*                                      */
-/* $id */
+/* $Id: cell.h,v 1.2 2007/07/03 14:02:57 ylafon Exp $ */
 
 #ifndef _AION_CELL_H_
 #define _AION_CELL_H_

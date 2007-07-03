@@ -1,6 +1,6 @@
 /* (c) Yves Lafon <yves@raubacapeu.net> */
 /*                                      */
-/* $id */
+/* $Id: signal.c,v 1.2 2007/07/03 14:02:58 ylafon Exp $ */
 
 #include <stdio.h>
 #include <string.h>
